@@ -35,3 +35,6 @@ print()
 （10）循环语句
 for i in range (<计数值>):
    <表达式组>
+
+def定义函数
+import引入数据库
